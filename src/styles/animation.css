@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: #0c192c;
+}
+
+.contbubbles {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.bubbles {
+  position: relative;
+  display: flex;
+}
+
+.bubbles span {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  margin: 0 4px;
+  border-radius: 50%;
+  animation: animate 15s linear infinite;
+  animation-duration: calc(145s / var(--i));
+}
+
+.bubbles span:nth-child(odd) {
+  box-shadow: 0 0 0 0px #25d6f544,
+    0 0 50px #25d6f5,
+    0 0 100px * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: #0c192c;
+}
+
+.contbubbles {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.bubbles {
+  position: relative;
+  display: flex;
+}
+
+.bubbles span {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  margin: 0 4px;
+  border-radius: 50%;
+  animation: animate 15s linear infinite;
+  animation-duration: calc(125s / var(--i));
+}
+
+.bubbles span:nth-child(odd) {
+  box-shadow: 0 0 0 10px #00ff0044,
+    0 0 50px #00ff00,
+    0 0 100px #00ff00;
+}
+
+.bubbles span:nth-child(even) {
+  box-shadow: 0 0 0 10px #00ff0044,
+    0 0 50px #00ff00,
+    0 0 100px #00ff00;
+}
+
+.bubbles span:before {
+  content: '\201C'; /* Símbolo musical desejado (♫) */
+  font-size: 30px; /* Tamanho desejado para o símbolo */
+  color: #00ff00; /* Cor desejada para o símbolo (substitua pela cor desejada) */
+}
+
+.bubbles span:nth-child(odd):before {
+  content: '\266A'; /* Símbolo musical desejado (♪) */
+  color: #00ff00; /* Cor desejada para o símbolo (substitua pela cor desejada) */
+}
+
+@keyframes animate {
+  0% {
+    transform: translateY(100vh) scale(0);
+  }
+  100% {
+    transform: translateY(-10vh) scale(1);
+  }
+}
+;
+}
+
+.bubbles span:nth-child(even) {
+  box-shadow: 0 0 0 0px ##00ff0044,
+    0 0 50px #00ff00,
+    0 0 100px #00ff00;
+}
+
+.bubbles span:before {
+  content: '\266A'; /* Símbolo musical desejado (♫) */
+  font-size: 55px; /* Tamanho desejado para o símbolo */
+  color: #00ff00; /* Cor desejada para o símbolo (substitua pela cor desejada) */
+}
+
+.bubbles span:nth-child(odd):before {
+  content: '\266A'; /* Símbolo musical desejado (♪) */
+  color: #00ff00; /* Cor desejada para o símbolo (substitua pela cor desejada) */
+}
+
+@keyframes animate {
+  0% {
+    transform: translateY(100vh) scale(0);
+  }
+  100% {
+    transform: translateY(-10vh) scale(1);
+  }
+}
