@@ -29,34 +29,29 @@ Neste repositório você encontrará uma página clone do Spotify, que foi desen
 
 <div id="challenge"></div>
 
-### 🔥 Sobre o desafio
+### 🔥 Sobre a Imersão
 
-O Desafio simula um ambiente de trabalho real, com tarefas exigidas pelos designers por meio de cartões no **Trello**. É necessário comunicar-se e entender o que os designers realmente querem de cada tarefa, podemos escolher a tecnologia que desejarmos para desenvolver o código. Podemos, também, adicionar recursos e sugerir modificações.
+A imersão simula um ambiente de trabalho real, com tarefas exigidas pelos designers por meio de cartões no **Trello**. É necessário comunicar-se e entender o que os designers realmente querem de cada tarefa, podemos escolher a tecnologia que desejarmos para desenvolver o código. Podemos, também, adicionar recursos e sugerir modificações.
 
-Não há aulas específicas para o desafio, por isso devemos desenvolver com o conhecimento que temos. As instrutoras preparam um plano de estudos com dicas de conhecimentos que podemos precisar caso precisemos fazer algo e não saibamos exatamente como fazer, mas é nossa responsabilidade buscar e trocar informações com outros desenvolvedores para realizar o trabalho.
+Há aulas específicas para a imesrão, mas há atividades que nos permitem desenvolver com o conhecimento que temos. As instrutoras preparam um plano de estudos com dicas de conhecimentos que podemos precisar caso precisemos fazer algo e não saibamos exatamente como fazer, mas é nossa responsabilidade buscar e trocar informações com outros desenvolvedores para realizar o trabalho.
 
 
 ### ✅ Etapas do projeto
 
-- **Semana 1:** Desenvolvimento das estruturas e estilizações. No meu caso, escolhi desenvolver em HTML e CSS.
-- **Semana 2:** Implementação do JavaScript,.
-- **Semana 3:** Validações dos formulários (cadastro de produtos). Finalização do projeto com cadastro dos itens no banco de dados.
+- **Aula 1:** Revisão: HTML, CSS e JS na Prática.
+- **Aula 2:** Estilo Avançado e Posicionamento: Transformando Layouts.
+- **Aula 3:** Layout Flexbox, Pseudo-classes e Responsividade em CSS.
+- **Aula 4:** CSS Grid, Media Queries e Manipulação do DOM com JavaScript.
+- **Aula 5:** Frameworks e Eficiência: Introdução ao React.
 
-### 🏅 Badges recebidas pelo projeto
+### 🏅 Certificado recebido pelo projeto
 
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="/src/assets/Badge/Badge-Portfolio.png">
+      <img height="150px" src="/src/assets/icons/Imersão-Front-End-06-02-24.JPG">
     </td>
-    <td>
-      <img height="150px" src="/src/assets/Badge/Badge-AluraGeek.png">
-    </td>
-  </tr>
-  <tr>
-    <td>Challenge Portfólio</td>
-    <td>Challenge Alura Geek</td>
-  </tr>
+   </tr>
 </table>
 
 <a href='#top'>🔼 Voltar ao topo</a>
